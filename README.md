@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KaiserWicker-II (You can also call me David)
+- 👀 I’m interested in a lot of things :)
+- 🌱 I’m currently learning HTML, CSS, JS. My goal is to become a web developer.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me dm me on discord: KaiserWicker
